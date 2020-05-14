@@ -271,7 +271,7 @@ MAIN		PROC FAR
             CMP AX, 3003				;	If edge1, edge2 and edge3 are still equal to 1001 (initial value), it means no triangle found.
             JE NOT_EXIST				;	If exist, continue, else skip NOT_EXIST label.
 										;	** If values are different than 1001, it means a triangle found **
-        EXIST:                      	;   ** 						Print this triangle					   	**
+        EXIST:                      	;   ** 					Print this triangle					   		**
             LEA AX, triangle_msg			
             CALL PUT_STR				;	Print "Smallest triangle with given edge lengths:".
 			LEA AX, par_open			
