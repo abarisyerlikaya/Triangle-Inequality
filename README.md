@@ -7,15 +7,14 @@
 
 * It follows from the fact that a straight line is the shortest path between two points. The inequality is strict if the triangle is non-degenerate (meaning it has a non-zero area).
 
-![](https://i.imgur.com/6kS5kFu.png)
+<img src="images/1.png"/>
 
 (Information from brilliant.org)
 
 ### Screenshots
-![](https://i.imgur.com/ttFKsJt.png)
+<img src="images/2.png"/>
 
-![](https://i.imgur.com/Xb1BRqS.png)
+<img src="images/3.png"/>
 
-![](https://i.imgur.com/ZXdhcI7.png)
-
+<img src="images/4.png"/>
 Linked and executed via DOSBox.
